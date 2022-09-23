@@ -1,0 +1,3 @@
+a. karena nilai variable terdaftar adalah false
+b. karena nama adalah variable constant yang nilainya tidak dapat diubah
+c. tidak, karena asal adalah variable lokal pada function
